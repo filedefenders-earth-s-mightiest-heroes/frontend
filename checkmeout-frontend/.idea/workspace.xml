@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="98a0754a-29bf-402e-ab04-161bdebaf976" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Upload.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/UpLoad/Upload.js" afterDir="false" />
-    </list>
+    <list default="true" id="98a0754a-29bf-402e-ab04-161bdebaf976" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -91,8 +85,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="155" />
-    <option name="y" value="216" />
+    <option name="x" value="153" />
+    <option name="y" value="23" />
     <option name="width" value="1088" />
     <option name="height" value="696" />
   </component>
@@ -175,16 +169,15 @@
       <option name="presentableId" value="Default" />
       <updated>1559427968884</updated>
       <workItem from="1559427971002" duration="1251000" />
-      <workItem from="1559429412335" duration="4458000" />
+      <workItem from="1559429412335" duration="4586000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5709000" />
+    <option name="totallyTimeSpent" value="5837000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="155" y="216" width="1088" height="696" extended-state="0" />
-    <editor active="true" />
+    <frame x="153" y="23" width="1088" height="696" extended-state="0" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.44329897" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
